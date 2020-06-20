@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.histats.com	TRUE	/	FALSE	1999999999	CountUid	9e5b64dc-8bpe-4cd5-8f95-cd892e801463
+.inapppurchasehack.com	TRUE	/	FALSE	1999999999	__cfduid	d52278bb0a5ff90004da8b95649d6aa381591900311
+inapppurchasehack.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
